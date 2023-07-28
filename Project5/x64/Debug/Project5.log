@@ -1,0 +1,4 @@
+﻿  test.cpp
+D:\C-language\Project5\test.cpp(73,9): warning C4129: “N”: 不可识别的字符转义序列
+D:\C-language\Project5\test.cpp(77,21): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  Project5.vcxproj -> D:\C-language\Project5\x64\Debug\Project5.exe
