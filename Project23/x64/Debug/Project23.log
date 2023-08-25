@@ -1,0 +1,13 @@
+﻿  test.cpp
+D:\C-language\Project23\test.cpp(26,16): error C2146: 语法错误: 缺少“)”(在标识符“）”的前面)
+D:\C-language\Project23\test.cpp(26,16): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+D:\C-language\Project23\test.cpp(26,16): error C2059: 语法错误:“)”
+D:\C-language\Project23\test.cpp(26,16): error C2446: “>”: 没有从“size_t”到“char *”的转换
+D:\C-language\Project23\test.cpp(26,16): message : 从整型类型转换为指针类型需要 reinterpret_cast、C 样式转换或带圆括号的函数样式强制转换
+D:\C-language\Project23\test.cpp(26,16): error C2065: “）”: 未声明的标识符
+D:\C-language\Project23\test.cpp(26,16): error C2059: 语法错误:“;”
+D:\C-language\Project23\test.cpp(26,16): error C2296: “*”: 无效，因为左操作数的类型为“char *”
+D:\C-language\Project23\test.cpp(26,16): error C2143: 语法错误: 缺少“;”(在“:”的前面)
+D:\C-language\Project23\test.cpp(26,16): error C2059: 语法错误:“:”
+D:\C-language\Project23\test.cpp(26,16): error C2297: “*”: 无效，因为右操作数的类型为“va_list”
+D:\C-language\Project23\test.cpp(27,5): error C2146: 语法错误: 缺少“;”(在标识符“putchar”的前面)
